@@ -15,3 +15,5 @@ Atribut courses digunakan untuk menyimpan daftar mata kuliah yang diajarkan oleh
 Method addCourse digunakan untuk menambahkan mata kuliah yang diajarkan oleh guru.
 Method removeCourse digunakan untuk menghapus mata kuliah yang diajarkan oleh guru.
 Program ini juga dilengkapi dengan Main class yang digunakan untuk menguji kelas-kelas yang telah dibuat. Di dalam Main class, pengguna diminta untuk memasukkan informasi siswa dan guru melalui Scanner, kemudian informasi tersebut digunakan untuk membuat objek siswa dan guru. Objek-objek tersebut kemudian digunakan untuk menguji berbagai fitur yang telah diimplementasikan dalam kelas-kelas Student dan Teacher.
+
+Pada gambar runnung.png dapat dilihat hasil running dari program tersebut
